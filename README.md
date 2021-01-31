@@ -36,7 +36,7 @@ Finally, we will complete a machine learning approach to building recommendation
 **top_10.p** - P file contains top 10 articles.<br/>
 **top_20.p** - P file contains top 20 articles.<br/> 
 **top_5.p** - P file contains top 5 articles.<br/>
-**user_item_matrix.zip** - zipped file foe user_item_matrix.p. We need to unzip the file to use it. This is P file containing user item matrix that we will use to perform Singular Value Decomposition (SVD).<br/>
+**user_item_matrix.zip** - zipped file for *user_item_matrix.p*. We need to unzip the file to use it. This is P file containing user item matrix that we will use to perform Singular Value Decomposition (SVD).<br/>
 (**Note:** P files are used by project_test.py to test top n articles we obtained via functions we created.)<br/>
 
 ### Folder: data<br/>
