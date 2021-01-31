@@ -1,10 +1,10 @@
 # Recommendations with IBM Project (Udacity - Data Scientist Nanodegree Program)
 ## Table of Contents
-1. [Introduction]()
-2. [File Descriptions]()
-3. [Installation]()
-4. [Instructions]()
-5. [Acknowledgements]()
+1. [Introduction](https://github.com/louisteo9/recommendations-with-IBM#introduction)
+2. [File Descriptions](https://github.com/louisteo9/recommendations-with-IBM#file-descriptions)
+3. [Installation](https://github.com/louisteo9/recommendations-with-IBM#installation)
+4. [Instructions](https://github.com/louisteo9/recommendations-with-IBM#instructions)
+5. [Acknowledgements](https://github.com/louisteo9/recommendations-with-IBM#acknowledgements)
 
 ## Introduction
 This project is part of the Udacity's Data Scientist Nanodegree Program in collaboration with IBM.
@@ -52,7 +52,7 @@ pandas, numpy, matplotlib, pickle
 ## Instructions
 Run the codes inside Jupyter notebook to complete the project.
 
-### Future Work
+#### *Future Work*
 Using the notebook, we could now save our recommendations for each user, develop a class to make new predictions and update our results, and make a flask app to deploy our results.
 
 ## Acknowledgements
